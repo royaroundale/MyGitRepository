@@ -4,7 +4,7 @@
 class HelloGit{
 
 	public static final void HelloGit(String str){
->>>>>>> idea
+
 	system.out.println("hello git....welcome....");
 	
 }
@@ -15,6 +15,6 @@ class HelloGit{
 
 	static void myBigMethod(){
 
-	sysout("has method implementaion");
+	system.out.println("has method implementaion");
 			}
 	}
