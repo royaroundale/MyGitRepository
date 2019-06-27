@@ -13,7 +13,7 @@ class HelloGit{
 
 		}
 
-	void myBigMethod(){
+	static void myBigMethod(){
 
 	sysout("has method implementaion");
 			}
